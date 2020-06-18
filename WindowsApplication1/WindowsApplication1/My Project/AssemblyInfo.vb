@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("git_tst")> 
+<Assembly: AssemblyTitle("WindowsApplication1")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("git_tst")> 
+<Assembly: AssemblyProduct("WindowsApplication1")> 
 <Assembly: AssemblyCopyright("Copyright ©  2020")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("2edc9856-5fe9-4d93-b5d5-2af46c52109a")> 
+<Assembly: Guid("cc434b10-2ed3-49b7-962b-170709be8e3d")> 
 
 ' Version information for an assembly consists of the following four values:
 '
