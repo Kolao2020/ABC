@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{323CF398-8CD0-4643-B5FE-26DBD85618CA}</ProjectGuid>
+    <ProjectGuid>{53D87321-8609-4ACA-9CCD-8E44221CE4F3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>git_tst.My.MyApplication</StartupObject>
     <RootNamespace>git_tst</RootNamespace>
