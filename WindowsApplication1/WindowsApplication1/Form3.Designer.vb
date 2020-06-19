@@ -24,12 +24,12 @@ Partial Class Form3
     Private Sub InitializeComponent()
         Me.SuspendLayout()
         '
-        'Form2
+        'Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 261)
-        Me.Name = "Form2"
+        Me.Name = "Form3"
         Me.Text = "Form3"
         Me.ResumeLayout(False)
 
